@@ -1,5 +1,5 @@
-# wp-deploy-list
-Things to do before deploying WordPress sites. Cause not everyone can be hyperthymestic.
+# wp-deploy
+A running list of things to check before deploying WordPress sites. How do people remember all this?
 
 ## Pre-launch
 - Implement Favicons
